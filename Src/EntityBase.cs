@@ -10,12 +10,18 @@ namespace Tests
         public string Id { get; set; }
 
         /// <summary>
-        /// This funciton creats uniqu id for each entity and saves it to a file.
+        /// This funciton creats unique id for each entity and saves it to a file.
+        ///Steps include 1.
+        ///1.Create new GUID
+        ///2.Construct File Name
+        ///3.Create directory to store file if not exists
+        ///4.Serialize Object to json and write to file.
         /// </summary>
         public void Save()
         {
             this.Id = Helper.GetNewId();
             string filePath = Helper.ConstructFilePath(this.Id, this.GetType().Name);
+            Helper.CreateDirectoryIfNotExists(this.GetType().Name);
             JsonSerialization.WriteToJsonFile<EntityBase<T>>(filePath, this);
         }
 
