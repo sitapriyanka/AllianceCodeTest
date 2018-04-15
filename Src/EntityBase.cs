@@ -12,7 +12,7 @@ namespace Tests
         /// <summary>
         /// This funciton creats unique id for each entity and saves it to a file.
         ///Steps include 1.
-        ///1.Create new GUID
+        ///1.Create new Id to the entity
         ///2.Construct File Name
         ///3.Create directory to store file if not exists
         ///4.Serialize Object to json and write to file.
