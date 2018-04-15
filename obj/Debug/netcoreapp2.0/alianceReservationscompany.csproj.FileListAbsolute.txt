@@ -1,0 +1,14 @@
+D:\Priyanka\dotnet core\alianceReservationscompany\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+D:\Priyanka\dotnet core\alianceReservationscompany\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+D:\Priyanka\dotnet core\alianceReservationscompany\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+D:\Priyanka\dotnet core\alianceReservationscompany\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+D:\Priyanka\dotnet core\alianceReservationscompany\bin\Debug\netcoreapp2.0\alianceReservationscompany.deps.json
+D:\Priyanka\dotnet core\alianceReservationscompany\bin\Debug\netcoreapp2.0\alianceReservationscompany.runtimeconfig.json
+D:\Priyanka\dotnet core\alianceReservationscompany\bin\Debug\netcoreapp2.0\alianceReservationscompany.runtimeconfig.dev.json
+D:\Priyanka\dotnet core\alianceReservationscompany\bin\Debug\netcoreapp2.0\alianceReservationscompany.dll
+D:\Priyanka\dotnet core\alianceReservationscompany\bin\Debug\netcoreapp2.0\alianceReservationscompany.pdb
+D:\Priyanka\dotnet core\alianceReservationscompany\obj\Debug\netcoreapp2.0\alianceReservationscompany.csproj.CoreCompileInputs.cache
+D:\Priyanka\dotnet core\alianceReservationscompany\obj\Debug\netcoreapp2.0\alianceReservationscompany.AssemblyInfoInputs.cache
+D:\Priyanka\dotnet core\alianceReservationscompany\obj\Debug\netcoreapp2.0\alianceReservationscompany.AssemblyInfo.cs
+D:\Priyanka\dotnet core\alianceReservationscompany\obj\Debug\netcoreapp2.0\alianceReservationscompany.dll
+D:\Priyanka\dotnet core\alianceReservationscompany\obj\Debug\netcoreapp2.0\alianceReservationscompany.pdb
